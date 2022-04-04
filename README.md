@@ -1,10 +1,14 @@
 Corpy-Co.inc-Assignment
 ==========================
 
+Created by
+---------------------------
+Jeongmin Lee, Tokyo Institute of Technology
+
 Used Data
 ---------------------------
 https://drive.google.com/drive/folders/1VwF5MoRqShrXs_nPbwGfQqyps7D6tQWP?usp=sharing   
-Using Data set (750 good samples and 750 noise samples which created by Agumentation from 250 good samples and 50 noise samples)   
+Using Data set which created by Agumentation from 250 good samples and 50 noise samples
 
 license
 ---------------------------
